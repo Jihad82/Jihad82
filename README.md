@@ -1,8 +1,8 @@
 ### Hi there 👋 <h1>Aabharan Zihad</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=jihad82&label=Profile%20views&color=0e75b6&style=flat" alt="jihad82" /> </p> 
 - 🌱Greetings to all, I'm Aabharan Zihad from Bangladesh, and I'm currently pursuing my Bachelor's degree in Computer Science and Engineering at the Green University of Bangladesh and i currently working in several organizations.
-<br>
-- 📫 How to reach me **dev.jihad.bd@gmail.com**
+
+- 📫 How to reach me <h5>dev.jihad.bd@gmail.com</h5>
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
-<h4> Tools <h4>
+<h4> Tools </h4>
 <span>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
