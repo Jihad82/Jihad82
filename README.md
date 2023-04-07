@@ -14,23 +14,7 @@
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aabharan-zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabharan-zihad" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/15511212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15511212" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/zihadzz.zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zihadzz.zz" height="30" width="40" /></a>
-  
-  
-<a href="https://www.instagram.com/aabharan_zz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aabharan_zz" height="30" width="40" /></a>
-  
-  
-<a href="https://www.youtube.com/@Aabharan_Zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Aabharan_Zihad" height="30" width="40" /></a>
-  
-<a href="https://www.hackerrank.com/zzihadzz224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zzihadzz224" height="30" width="40" /></a>
-  
-<a href="https://dribbble.com/jihad_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jihad_designer" height="30" width="40" /></a>
-  
-<a href="https://www.behance.net/aabharan_zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aabharan_zihad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aabharan-zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabharan-zihad" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/15511212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15511212" height="30" width="40" /></a> <a href="https://www.facebook.com/zihadzz.zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zihadzz.zz" height="30" width="40" /></a> <a href="https://www.instagram.com/aabharan_zz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aabharan_zz" height="30" width="40" /></a><a href="https://www.youtube.com/@Aabharan_Zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Aabharan_Zihad" height="30" width="40" /></a> <a href="https://www.hackerrank.com/zzihadzz224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zzihadzz224" height="30" width="40" /></a> <a href="https://dribbble.com/jihad_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jihad_designer" height="30" width="40" /></a> <a href="https://www.behance.net/aabharan_zihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aabharan_zihad" height="30" width="40" /></a>
 </p>
 
 <h2> Skills </h2>
