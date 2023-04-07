@@ -1,8 +1,6 @@
 ### Hi there 👋 <h1>Aabharan Zihad</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=jihad82&label=Profile%20views&color=0e75b6&style=flat" alt="jihad82" /> </p> 
-- 🌱 I would like to introduce myself. My name is Aabharan Zihad, and I am from Bangladesh. 
-     I am studying at the Green University of Bangladesh as an undergraduate student in Computer Science and Engineering. 
-     I am currently working in several organizations.
+- 🌱Greetings to all, I'm Aabharan Zihad from Bangladesh, and I'm currently pursuing my Bachelor's degree in Computer Science and Engineering at the Green University of Bangladesh and i currently working in several organizations.
 
 - 📫 How to reach me **dev.jihad.bd@gmail.com**
 
