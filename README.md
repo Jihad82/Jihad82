@@ -48,10 +48,6 @@
 </p>
 
 
-<h2> Statistics </h2>
-     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihad82&show_icons=true&locale=en&layout=compact" alt="jihad82" /></p>
-
 
 
 
