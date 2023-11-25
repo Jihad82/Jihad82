@@ -1,4 +1,4 @@
-### Hi there 👋 <h1>Aabharan Zihad</h1>
+### Hi there 👋 <h1>Abrar Jihad</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=jihad82&label=Profile%20views&color=0e75b6&style=flat" alt="jihad82" /> </p> 
 -I'm a simple person who love to code & I'd like to learn something new everyday. I'm a experienced mobile application developer who has skilled with work as a team. I've coherence to never quit something untill it is absolutely perfect.
 <h4>- 📧How to reach me : <a> dev.jihad.bd@gmail.com </a> </h5> 
