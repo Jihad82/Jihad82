@@ -71,7 +71,7 @@ I'm a simple person who loves to code & learn something new every day. I'm an ex
 ## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aabharan-zihad" target="blank">
+  <a href="https://www.linkedin.com/in/abrar-jihad/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabharan-zihad" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/15511212" target="blank">
